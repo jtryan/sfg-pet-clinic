@@ -1,4 +1,4 @@
-package com.sigiliius.sfgpetclinic;
+package com.sigilius.sfgpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
