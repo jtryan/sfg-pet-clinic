@@ -3,11 +3,12 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>com.sigilius</groupId>
-        <version>0.0.5</version>
+        <version>0.0.6-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
+  <version>0.0.4</version>
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
@@ -56,9 +57,4 @@
             </plugin>
         </plugins>
     </build>
-
-
-  <scm>
-    <tag>sfg-pet-clinic-0.0.5</tag>
-  </scm>
 </project>
