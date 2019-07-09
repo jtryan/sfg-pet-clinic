@@ -47,8 +47,11 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:jtryan/sfg-pet-clinic</developerConnection>
+        <connection>scm:git:git@github.com:jtryan/sfg-pet-clinic.git/.git</connection>
+        <developerConnection>scm:git:git@github.com:jtryan/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/jtryan/sfg-pet-clinic</url>
         <tag>HEAD</tag>
     </scm>
+
 
 </project>
